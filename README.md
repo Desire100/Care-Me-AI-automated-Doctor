@@ -38,3 +38,7 @@ Building wealth by providing services that are impactful to the other people usi
 - Step 1 - Download Base code https://github.com/rxlabz/sytody
 - Step 2 -  Install and run base code
 - Step 3 - Analyze Base Code
+
+## Credits
+[Siraj Raval](https://github.com/llSourcell)
+
