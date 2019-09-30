@@ -1,4 +1,4 @@
-# Automated Doctor with help of BioBERT and Flutter
+# Automated Doctor mobile app with help of BioBERT and Flutter
 
 ## Overview
  
