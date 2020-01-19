@@ -8,6 +8,9 @@ AutoDoc is a mobile app for iOS and Android for medical purpose that helps you c
 ## N.B 
 ##### This app is not going to be better than a real doctor but it gives the best diagnosis posssible. People who can not afford the health care because it's too expensive this app is for them.
 
+![2131637552](https://user-images.githubusercontent.com/35916017/72685397-a7e6be80-3b24-11ea-89ef-4fd6d456e1e2.jpg) ![careme_muganga](https://user-images.githubusercontent.com/35916017/72685429-eaa89680-3b24-11ea-9e10-eb62fb5f4895.jpg)
+
+
 ## Prerequestie Knowledge
 - The knowlegde of how a pre-trained (BERT) [biomedical language representation model for biomedical text mining](https://arxiv.org/pdf/1901.08746.pdf) work
 - How to build a [Flutter](https://flutter.dev/) plugin (iOS + Android)
@@ -16,7 +19,7 @@ AutoDoc is a mobile app for iOS and Android for medical purpose that helps you c
 
 ## Tools Used
 
-- App building (Flutter) 
+- App building [Flutter](https://github.com/Desire100/Smart-Detector-Mobile-App-Powered-by-AI/blob/master/Flutter.ipynb) 
 - User Accounts (Firebase)
 - Voice Recognition plugin (custom channel, iOS Speech API, Android SpeechRecognizer)
 - AI Model(BioBERT , input question into retrained bioBERT to convert into an embedding. Input the embedding into a fully connected neural network, output an embedding for similarity lookup. Most similar Q&A's used by GPT-2 to generate an answer. )
