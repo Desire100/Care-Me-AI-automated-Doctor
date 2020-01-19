@@ -45,6 +45,5 @@ Building wealth by providing services that are impactful to the other people usi
 - Step 2 -  Install and run base code
 - Step 3 - Analyze Base Code
 
-## Credits
-[Siraj Raval](https://github.com/llSourcell)
+
 
