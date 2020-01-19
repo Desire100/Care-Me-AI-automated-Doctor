@@ -8,7 +8,8 @@ AutoDoc is a mobile app for iOS and Android for medical purpose that helps you c
 ## N.B 
 ##### This app is not going to be better than a real doctor but it gives the best diagnosis posssible. People who can not afford the health care because it's too expensive this app is for them.
 
-![careme](https://user-images.githubusercontent.com/35916017/72685491-a7025c80-3b25-11ea-938f-2381ff616060.png)  ![careme-![careme-muganga](https://user-images.githubusercontent.com/35916017/72685682-470cb580-3b27-11ea-8cf2-6b71924c06fe.png)
+![careme](https://user-images.githubusercontent.com/35916017/72685491-a7025c80-3b25-11ea-938f-2381ff616060.png) 
+![careme-muganga](https://user-images.githubusercontent.com/35916017/72685682-470cb580-3b27-11ea-8cf2-6b71924c06fe.png)
 
 
 
